@@ -1,7 +1,7 @@
 ## Project Title
 
-Firstname Lastname  
+Zoe Friedland
 OCEAN 215 Final Project  
 Autumn 2024  
 
-*Summarize your research question, goals, and main results in 3-4 sentences.*
+Prochlorococcus' global abundance is likely linked its myriad of highly differentiated ecotypes; understanding the phenological and depth-dependent relationships between these ecotypes can provide further insight into their evolutionary and ecological past, present, and future. This report aims to examine a dataset containing abundance measurements of five prochlorococcus ecotypes across 5 years, at 12 different depths, and in two different oceans at similar latitudes; document the data processing and analyses methodology while creating plots in python using packages such as matplotlib, xarray, and pandas; and ultimately gain a clearer understanding of the role of key variables in the datset, including temperature, month, and depth, on the abundance of each ecotype. The most significant result was a clear pattern of ecotypes differentiating across depth, and high-light adapted ecotypes occupying shallower niches achieved greater overall abundance.There were also clear patterns in seasonal fluctuations of ecotypes, with HL and LL ecotypes impacted by seasonal vertical mixing of the euphotic zone in strikingly similar ways amongst similar-adapted ecotyeps  but distinctly differently compared to those with opposite light preferences. However, the meaning of and mechanisms behind this pattern were difficult to parse and are a topic of further research. 
